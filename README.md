@@ -9,7 +9,7 @@ He wants to be prepared by knowing the weather history and pattern in the area. 
 ## Results
 
 ![June](https://user-images.githubusercontent.com/104239978/192656987-7e35bf2e-7991-4aed-ba9d-4ddb56d806cc.png)
-![December](https://user-images.githubusercontent.com/104239978/192656991-1e7e778f-55c4-44a3-9ae4-6a98caa58a0d.png)
+![December](https://user-images.githubusercontent.com/104239978/192657743-5eaebd82-ed08-47f4-a964-d57a117f68bb.png)
 
 From the statistics above we can say:
 
